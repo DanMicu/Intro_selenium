@@ -13,7 +13,7 @@ browser.maximize_window()
 # print(search_query.tag_name)
 # search_query.send_keys('dress')
 # time.sleep(3)
-#
+
 # submit_search = browser.find_element(by=By.NAME,value="submit_search")
 # submit_search.click()
 # time.sleep(12)
@@ -60,11 +60,11 @@ browser.maximize_window()
 # sign_in = browser.find_element(by=By.CLASS_NAME, value="login")
 # sign_in.click()
 # time.sleep(3)
-#
+
 # email_create = browser.find_element(by=By.NAME, value="email_create")
 # email_create.send_keys('dress@gmail.com')
 # time.sleep(3)
-#
+
 # submit_email = browser.find_element(by=By.NAME, value="SubmitCreate")
 # submit_email.click()
 # time.sleep(12)
